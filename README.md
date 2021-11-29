@@ -1,6 +1,23 @@
-# Getting Started with Create React App
+# Guestline React Page
+
+## Project Requirements:
+
+This Page is created using React, javascript along with HTML, CSS to list hotels and their rooms by fetching the data from the API.
+Guests using the site should be able to:
+
+- Filter based on the star rating of the hotel, that is, given I, have selected 3 stars, then I am able to see all hotels with a 3 and above rating.
+
+- Filter based on the capacity of the room. That is when I have selected 1 adult and 1 child then I am able to see all rooms with at least that capacity. Therefore, I will not be shown any rooms which do not accept children.
+
+- View all images of the displayed hotel
+
+- See hotel details (including hotel name, address and star rating) and room details (including room type, max adults, max children and long description)
+
+## Getting Started with Create React App & Setup
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+1. npx create-react-app guestline-app
 
 ## Available Scripts
 
@@ -68,3 +85,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Feedback
+
+Your valuable feedback is much appreciated making me better in developing application and being more confident in this career path.
+
+You can see this project code on my github @https://github.com/naiyagpatel/guestline-app
+
+Happy Coding 😃
